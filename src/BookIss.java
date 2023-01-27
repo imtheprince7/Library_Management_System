@@ -179,9 +179,6 @@ public class BookIss extends javax.swing.JFrame {
             new BookIss().setVisible(true);
         }
         
-        
-        
-        
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
@@ -210,7 +207,7 @@ public class BookIss extends javax.swing.JFrame {
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
                 new BookIss().setVisible(true);
-            }
+            }   
         });
     }
 

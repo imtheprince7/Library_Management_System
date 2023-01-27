@@ -12,11 +12,6 @@ import java.text.SimpleDateFormat;
 //import javax.swing.ImageIcon;
 import javax.swing.JOptionPane;
 
-
-/**
- *
- * @author Rajpoot
- */
 public class BookIssue extends javax.swing.JFrame {
 
     /**
